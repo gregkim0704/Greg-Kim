@@ -1,0 +1,7 @@
+{
+  "name": "Copy2 of Elite Real Estate Asset Management",
+  "description": "A premium 10-year experienced real estate asset management platform providing data-driven insights and exclusive property curation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
